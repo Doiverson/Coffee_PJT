@@ -1,5 +1,22 @@
-body {
-  h1 {
+//.nav .title {
+//  color: red;
+//}
+//
+//.nav .dsc {
+//  color: blueviolet;
+//}
+
+.nav {
+  .title {
+    color: olivedrab;
+  }
+  .dsc {
+    color: maroon;
+  }
+}
+
+.container {
+  .title {
     color: green;
   }
 }
